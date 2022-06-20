@@ -1,6 +1,9 @@
 # Screenshot
 ![Bildschirmfoto 2022-06-20 um 20 20 44](https://user-images.githubusercontent.com/13085793/174659262-fdd6f083-26da-4d7b-8c7b-df83f958a398.png)
 
+![Bildschirmfoto 2022-06-20 um 22 23 38](https://user-images.githubusercontent.com/13085793/174673859-0aebe99b-d3bd-4733-910a-040dffe6adb1.png)
+
+
 # Some issues about version material Table
 
 import { BrowserAnimationsModule } from "@angular/platform-browser/animations";
