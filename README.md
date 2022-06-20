@@ -1,3 +1,7 @@
+# Screenshot
+![Bildschirmfoto 2022-06-20 um 20 20 44](https://user-images.githubusercontent.com/13085793/174659262-fdd6f083-26da-4d7b-8c7b-df83f958a398.png)
+
+
 # StaticTable
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.3.7.
